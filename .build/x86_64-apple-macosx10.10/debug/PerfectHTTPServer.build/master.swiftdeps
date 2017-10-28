@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "c4f898ce4058a002f91d146cc3e694f5"
+build_time: [1509219312, 564787000]
+inputs:
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1509219284, 0]

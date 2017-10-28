@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "412b2f033c12c1272c7d2f695ffd5542"
+build_time: [1509219299, 357986000]
+inputs:
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SwiftCompatibility.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [1509219286, 0]

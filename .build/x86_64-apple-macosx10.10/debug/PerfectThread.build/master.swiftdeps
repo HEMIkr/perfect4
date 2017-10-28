@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "8712314232656491f2784645d2187583"
+build_time: [1509219299, 358099000]
+inputs:
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Promise.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/ThreadQueue.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Threading.swift": [1509219285, 0]

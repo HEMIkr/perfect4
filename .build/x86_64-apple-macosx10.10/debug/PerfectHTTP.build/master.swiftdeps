@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "ffec5aeca895f7871107ec9db8089475"
+build_time: [1509219311, 29178000]
+inputs:
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [1509219285, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [1509219285, 0]

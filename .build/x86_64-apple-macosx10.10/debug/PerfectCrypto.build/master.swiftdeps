@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "b9391d3f8a560e3d9f9b823b20df5f86"
+build_time: [1509219304, 989176000]
+inputs:
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/Algorithms.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/ByteIO.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/Extensions.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/JWT.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/Keys.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/OpenSSLInternal.swift": [1509219286, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto.swift": [1509219286, 0]

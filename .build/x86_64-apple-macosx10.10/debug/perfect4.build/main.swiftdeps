@@ -1,0 +1,215 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "server"
+- "routes"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "HTTPServer"
+- "IntegerLiteralType"
+- "PerfectError"
+- "Routes"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "print"
+- "routes"
+- "server"
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- ["s7CVarArgP", "init"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "get"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9DecodableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "get"]
+- ["s9EquatableP", "init"]
+- ["s5ErrorP", "networkError"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["11PerfectHTTP10HTTPMethodO", "get"]
+- ["11PerfectHTTP12HTTPResponseP", "appendBody"]
+- ["11PerfectHTTP12HTTPResponseP", "completed"]
+- ["11PerfectHTTP12HTTPResponseP", "setHeader"]
+- ["17PerfectHTTPServer0B0C", "addRoutes"]
+- ["17PerfectHTTPServer0B0C", "init"]
+- ["17PerfectHTTPServer0B0C", "serverPort"]
+- ["17PerfectHTTPServer0B0C", "start"]
+- ["s8HashableP", "get"]
+- ["s8HashableP", "init"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["11PerfectHTTP18HTTPResponseHeaderO4NameO", "contentType"]
+- ["10PerfectLib0A5ErrorO", "networkError"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["11PerfectHTTP6RoutesV", "add"]
+- ["11PerfectHTTP6RoutesV", "init"]
+- ["s8SequenceP", "init"]
+- ["17PerfectHTTPServer14ServerInstanceP", "addRoutes"]
+- ["17PerfectHTTPServer14ServerInstanceP", "init"]
+- ["17PerfectHTTPServer14ServerInstanceP", "serverPort"]
+- ["17PerfectHTTPServer14ServerInstanceP", "start"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s5ErrorP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "11PerfectHTTP10HTTPMethodO"
+- "11PerfectHTTP12HTTPResponseP"
+- "17PerfectHTTPServer0B0C"
+- "s8HashableP"
+- "10PerfectLib15JSONConvertibleP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "11PerfectHTTP18HTTPResponseHeaderO4NameO"
+- "10PerfectLib0A5ErrorO"
+- "s26RangeReplaceableCollectionP"
+- "11PerfectHTTP6RoutesV"
+- "s8SequenceP"
+- "17PerfectHTTPServer14ServerInstanceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s23_BidirectionalIndexableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/PerfectHTTP.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/PerfectCrypto.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/PerfectHTTPServer.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/PerfectNet.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zlib.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/czlib.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zconf.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zutil.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../inftrees.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/module.modulemap"
+- "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/XCode/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "c95e417cc1a22cfcd2b0ec3d6d82b25d"

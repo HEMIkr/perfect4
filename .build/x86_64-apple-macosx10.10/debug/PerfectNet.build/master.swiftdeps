@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "947afd43a77b29492062a68059a051d7"
+build_time: [1509219306, 525278000]
+inputs:
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetAddress.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [1509219284, 0]
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetUDP.swift": [1509219284, 0]

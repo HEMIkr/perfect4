@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/perfect4.build/master.swiftdeps"
+  },
+  "/Users/HEMIkr/Projekty Xcode/server_perfect4/Sources/main.swift": {
+    "dependencies": "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/perfect4.build/main.d",
+    "object": "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/perfect4.build/main.swift.o",
+    "swiftmodule": "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/perfect4.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/HEMIkr/Projekty Xcode/server_perfect4/.build/x86_64-apple-macosx10.10/debug/perfect4.build/main.swiftdeps"
+  }
+}

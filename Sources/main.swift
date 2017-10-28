@@ -13,7 +13,7 @@ routes.add(method: .get, uri: "/", handler: { request, response in
 
 server.addRoutes(routes)
 
-server.serverPort = 8181
+server.serverPort = 8182
 
 do {
     try server.start()
