@@ -1,3 +1,3 @@
 # perfect4
 
-Simple server created with Swift/Perfect.
+Just playing arount with Swift/Perfect server-side framework.
